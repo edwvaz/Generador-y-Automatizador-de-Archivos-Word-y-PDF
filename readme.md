@@ -50,13 +50,13 @@ Ambos scripts comienzan con una plantilla (doc_plantilla.docx o doc_template.doc
 - Convierten el documento Word a PDF y lo guardan en la misma carpeta.
 
 ## 5. Rendimiento.
-El sistema genera un archivo (.docx y .pdf) aproximadamente cada 4 segundos en una computadora con un procesador Intel i7. Este rendimiento es adecuado para la generación de documentos en lotes pequeños y medianos. Con las mejoras futuras este proyecto es altamente escalable
+El sistema genera un archivo (.docx y .pdf) aproximadamente cada 4 segundos en una computadora con un procesador Intel i7. Este rendimiento es adecuado para la generación de documentos en lotes pequeños y medianos. Con las mejoras futuras este proyecto es altamente escalable.
 
 ## 6. Mejoras Futuras.
 Este proyecto tiene un gran potencial de mejora y expansión, incluyendo:
 
 - **Conexión a API's**: Permitir la integración con APIs para generar archivos automáticamente desde diversas fuentes de datos.
-- **Conexión a base de datos**: Permite la integración bases de datos (snowflake) para generar archivos
+- **Conexión a base de datos**: Permite la integración bases de datos (snowflake) para generar archivos.
 - **Integración con Django**: Desarrollar una interfaz web para administrar y generar documentos desde un navegador.
 - **Automatización con AWS**:
   - **AWS Lambda**: Utilizar AWS Lambda para procesar y generar documentos en la nube, permitiendo la automatización de miles de archivos por día con alta eficiencia y bajo costo.
