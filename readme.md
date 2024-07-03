@@ -9,10 +9,7 @@
 </p>
 
 <div align="center">
-  <video width="600" controls>
-    <source src="https://www.youtube.com/watch?v=encCkfkOxxI" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="600" height="340" src="https://www.youtube.com/embed/encCkfkOxxI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Índice.
