@@ -1,5 +1,5 @@
 # Generador y Automatizador de Archivos Word y PDF.
-Linl al video : https://www.youtube.com/watch?v=encCkfkOxxI
+
 <p align="center">
   <img src="images/docxtpl.png" alt="Texto alternativo" />
 </p>
@@ -7,6 +7,13 @@ Linl al video : https://www.youtube.com/watch?v=encCkfkOxxI
 <p align="center">
   <img src="images/docx2pdf.png" alt="Texto alternativo" />
 </p>
+
+<div align="center">
+  <video width="600" controls>
+    <source src="https://www.youtube.com/watch?v=encCkfkOxxI" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Índice.
 1. [Descripción del Proyecto](#descripción-del-proyecto).
