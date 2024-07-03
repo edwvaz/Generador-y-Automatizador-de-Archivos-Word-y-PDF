@@ -8,9 +8,8 @@
   <img src="images/docx2pdf.png" alt="Texto alternativo" />
 </p>
 
-<div align="center">
-  <iframe width="600" height="340" src="https://www.youtube.com/embed/encCkfkOxxI" frameborder="0" allowfullscreen></iframe>
-</div>
+Link al video: "https://www.youtube.com/embed/encCkfkOxxI"
+
 
 ## Índice.
 1. [Descripción del Proyecto](#descripción-del-proyecto).
